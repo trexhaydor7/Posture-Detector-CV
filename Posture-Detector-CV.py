@@ -1,8 +1,6 @@
 import cv2
 import mediapipe as mp
 import time 
-import threading 
-import pygame
 import os
 import math
 import sys
